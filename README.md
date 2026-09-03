@@ -91,4 +91,4 @@ Still local and still undeployed, and that's fine. This one was about getting Dj
 ## Author
 
 **Pritam Roy**
-[Portfolio](https://pritamroy.in) · [GitHub](https://github.com/pritamroydev) · [LinkedIn](#)
+[Portfolio](https://pritamroy.in) · [GitHub](https://github.com/pritamroydev) · [LinkedIn](https://www.linkedin.com/in/myselfpritamroy/)
